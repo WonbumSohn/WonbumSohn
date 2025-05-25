@@ -91,5 +91,3 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 [🔗 View Project Repository](https://github.com/WonbumSohn/RS_UV)
 
 ---
-
-🌟 *Let’s build the future of health and AI—one interpretable model at a time.*
