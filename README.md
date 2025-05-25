@@ -39,7 +39,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 ## 📄 Projects (pinned & resume-connected)
 
-### 🌍 **Motor Unit Tracking from High-Density EMG + Ultrasound**
+### 💪 **Motor Unit Tracking from High-Density EMG + Ultrasound**
 **Problem:** Non-invasive tracking of individual motor units across sessions is critical for diagnosing neuromuscular disorders.
 
 **What I did:** Developed a transformer-based pipeline to decompose HD-sEMG signals and align with ultrafast ultrasound muscle motion.
@@ -48,7 +48,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 **Outcome:** Demonstrated biopsy-free motor monitoring; contributed to NIH R21 project & co-authored a scoping review.
 
-### 🔎 **Autism Classification from fMRI using Graph Attention Networks**
+### 🧠 **Autism Classification from fMRI using Graph Attention Networks**
 **Problem:** Limited clinical models integrate white matter signals for ASD diagnosis.
 
 **What I did:** Designed a Graph Attention Network (GAT) integrating gray and white matter connectivity.
@@ -59,7 +59,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 [🔗 View Project Repository](https://github.com/WonbumSohn/fMRI_ASD)
 
-### 🎥 **fMRI Decoding from CNN Visual Features during Naturalistic Stimuli**
+### 🧠 **fMRI Decoding from CNN Visual Features during Naturalistic Stimuli**
 **Problem:** Understanding brain responses to naturalistic stimuli remains challenging.
 
 **What I did:** Extracted hierarchical CNN features from video frames and aligned them with fMRI BOLD signals.
@@ -70,7 +70,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 [🔗 View Project Repository](https://github.com/WonbumSohn/fMRI_MW)
 
-### 📍 **Facial EMG-based VR Avatar Control**
+### 🖥️ **Facial EMG-based VR Avatar Control**
 **Problem:** Camera-based facial tracking in VR raises privacy and occlusion concerns.
 
 **What I did:** Developed EMG classifier for 11 emotions using CNNs.
@@ -79,7 +79,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 **Outcome:** Enabled privacy-preserving emotion-based control in VR settings.
 
-### 📊 **AI-enhanced Raman Spectroscopy for Early Detection of Skin Cancer**
+### 🧬 **AI-enhanced Raman Spectroscopy for Early Detection of Skin Cancer**
 **Problem:** Early UV-induced skin damage is hard to detect non-invasively.
 
 **What I did:** Designed a SLMK-CNN model for Raman spectral classification.
