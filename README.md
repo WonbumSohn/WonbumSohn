@@ -48,7 +48,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 **Outcome:** Demonstrated biopsy-free motor monitoring; contributed to NIH R21 project & co-authored a scoping review.
 
-### 🧠 **Autism Classification from fMRI using Graph Attention Networks**
+### 🧠 [**Autism Classification from fMRI using Graph Attention Networks**](https://github.com/WonbumSohn/fMRI_ASD)
 **Problem:** Limited clinical models integrate white matter signals for ASD diagnosis.
 
 **What I did:** Designed a Graph Attention Network (GAT) integrating gray and white matter connectivity.
@@ -57,9 +57,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 **Outcome:** Achieved 80.4% accuracy (GM+WM); proposed pediatric transfer learning roadmap.
 
-[🔗 View Project Repository](https://github.com/WonbumSohn/fMRI_ASD)
-
-### 🧠 **fMRI Decoding from CNN Visual Features during Naturalistic Stimuli**
+### 🧠 [**fMRI Decoding from CNN Visual Features during Naturalistic Stimuli**](https://github.com/WonbumSohn/fMRI_MW)
 **Problem:** Understanding brain responses to naturalistic stimuli remains challenging.
 
 **What I did:** Extracted hierarchical CNN features from video frames and aligned them with fMRI BOLD signals.
@@ -67,8 +65,6 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 **How I solved it:** Built VGG16-based pipeline; applied GLM and reverse mapping for interpretability.
 
 **Outcome:** Published in *Psychoradiology*; revealed correspondence between CNN layer depth and brain hierarchy.
-
-[🔗 View Project Repository](https://github.com/WonbumSohn/fMRI_MW)
 
 ### 🖥️ **Facial EMG-based VR Avatar Control**
 **Problem:** Camera-based facial tracking in VR raises privacy and occlusion concerns.
@@ -79,7 +75,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 **Outcome:** Enabled privacy-preserving emotion-based control in VR settings.
 
-### 🧬 **AI-enhanced Raman Spectroscopy for Early Detection of Skin Cancer**
+### 🧬 [**AI-enhanced Raman Spectroscopy for Early Detection of Skin Cancer**](https://github.com/WonbumSohn/RS_UV)
 **Problem:** Early UV-induced skin damage is hard to detect non-invasively.
 
 **What I did:** Designed a SLMK-CNN model for Raman spectral classification.
@@ -87,7 +83,5 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 **How I solved it:** Modeled raw and processed spectra; highlighted molecular biomarkers.
 
 **Outcome:** Achieved >96% accuracy; published in *Journal of Raman Spectroscopy*.
-
-[🔗 View Project Repository](https://github.com/WonbumSohn/RS_UV)
 
 ---
