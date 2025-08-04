@@ -39,14 +39,7 @@ I am a passionate AI/ML Research Engineer with cross-disciplinary expertise in b
 
 ## 📄 Projects (pinned & resume-connected)
 
-### 💪 **Motor Unit Tracking from High-Density EMG + Ultrasound**
-**Problem:** Non-invasive tracking of individual motor units across sessions is critical for diagnosing neuromuscular disorders.
-
-**What I did:** Developed a transformer-based pipeline to decompose HD-sEMG signals and align with ultrafast ultrasound muscle motion.
-
-**How I solved it:** Engineered modular preprocessing, transformer-based modeling, and robust session alignment.
-
-**Outcome:** Demonstrated biopsy-free motor monitoring; contributed to NIH R21 project & co-authored a scoping review.
+### 💪 **Motor Unit Tracking from High-Density EMG **
 
 ### 🧠 [**Autism Classification from fMRI using Graph Attention Networks**](https://github.com/WonbumSohn/fMRI_ASD)
 **Problem:** Limited clinical models integrate white matter signals for ASD diagnosis.
